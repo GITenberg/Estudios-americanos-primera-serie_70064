@@ -1,0 +1,52 @@
+_repo: Estudios-americanos-primera-serie_70064
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Díaz Romero, Eugenio
+    aliases:
+    - Diaz Romero, Eugenio
+    - Romero, Eugenio Díaz
+    birthdate: 1877
+    deathdate: 1927
+    gutenberg_agent_id: '55590'
+    url: http://www.gutenberg.org/2009/agents/55590
+creator:
+  author:
+    agent_name: García Mérou, Martín
+    aliases:
+    - Mérou, Martín García
+    - Garcia Merou, Martin
+    birthdate: 1862
+    deathdate: 1905
+    gutenberg_agent_id: '55575'
+    url: http://www.gutenberg.org/2009/agents/55575
+    wikipedia: https://es.wikipedia.org/wiki/Mart%C3%ADn_Garc%C3%ADa_M%C3%A9rou
+description: ''
+gutenberg_issued: '2023-02-18'
+identifiers:
+  gutenberg: '70064'
+  lccn: '41036503'
+language: es
+pgterms:marc905: 20070227141125garcamrou
+pgterms:marc906: '1916'
+pgterms:marc907: AR
+production_note: Adrian Mastronardi and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: '  $aArgentina :$bLa Cultura Argentina, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Description and travel'
+- !lcsh 'United States -- Politics and government -- 1865-1933'
+- !lcc 'E151'
+- GITenberg
+tableOfContents: Martín García Mérou -- Martín García Mérou, por Eugenio Díaz Romero
+  -- Impresiones de Boston -- De paso por Chicago -- En Saint-Louis -- Una visita
+  a Amherst -- Viajeros en Sud América -- Temas de verano -- Un poco de filosofía
+  política -- Gobierno municipal americano -- El Congreso -- Maravillas de la piscicultura
+  -- John Hay -- "American ideals" -- David Ames Wells -- Un Christmas sombrío --
+  Henry Cabot Lodge.
+title: Estudios americanos (primera serie)
+url: http://www.gutenberg.org/ebooks/70064
