@@ -10,6 +10,9 @@ contributor:
     deathdate: 1927
     gutenberg_agent_id: '55590'
     url: http://www.gutenberg.org/2009/agents/55590
+covers:
+- cover_type: archival
+  image_path: 70064-h/images/cover.jpg
 creator:
   author:
     agent_name: García Mérou, Martín
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55575
     wikipedia: https://es.wikipedia.org/wiki/Mart%C3%ADn_Garc%C3%ADa_M%C3%A9rou
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70064#Estudios-americanos-primera-serie
 gutenberg_issued: '2023-02-18'
 identifiers:
   gutenberg: '70064'
